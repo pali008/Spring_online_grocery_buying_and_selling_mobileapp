@@ -1,0 +1,93 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Spring</string>
+    <string name="todo">todo</string>
+    <string name="spring">Spring</string>
+    <string name="buy_t_t_t_t_t_t_t_t_t_t_t_t_t_t_t_t_t_t_sell">bs</string>
+    <string name="buy_sell">buy sell</string>
+    <string name="buy" tools:ignore="DuplicateDefinition">Buy</string>
+    <string name="sell">Sell</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_passcode">Enter Passcode:</string>
+    <string name="login">Login</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="about_us_n_n_nthis_app_is_a_project_initiative_by_the_students_of_mbcet_this_application_is_in_its_prototype_phase_and_is_not_for_public_use">About us\n\n\nThis app is a project initiative by the students of MBCET.This application is in its prototype phase and is not for public use.</string>
+    <string name="todo1">TODO</string>
+    <string name="n_nabout_us_n_n_nthis_app_is_a_project_initiative_by_the_students_of_mbcet_this_application_is_in_its_prototype_phase_and_is_not_yet_for_public_use">/n/nAbout us /n/n/nThis app is a project initiative by the students of mbcet this application is in its prototype phase and is not yet for public use.</string>
+    <string name="newsting">About us...../n/nThis app is a project initiative by the students of mbcet this application is in its prototype phase and is not yet for public use.</string>
+    <string name="newstr">About us..........This app is a project initiative by the students of mbcet this application is in its prototype phase and is not yet for public use.</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="today_s_best_offers">Today\'s best offers</string>
+    <string name="todo0">TODO</string>
+    <string name="todo44">TODO</string>
+    <string name="todo23">TODO</string>
+    <string name="brown_rice_25_kg">Brown rice ₹25/kg</string>
+    <string name="banana_23_kg">Banana ₹23/kg</string>
+    <string name="cailiflower_30">Cailiflower ₹₹30</string>
+    <string name="value_price">Value price</string>
+    <string name="todo4">TODO</string>
+    <string name="todo57">TODO</string>
+    <string name="todol" tools:ignore="DuplicateDefinition">TODO</string>
+    <string name="cucumber_12_kg">Cucumber ₹12/kg</string>
+    <string name="lemon_23_kg">lemon ₹23/kg</string>
+    <string name="biriyani_rice_90_kg">Biriyani rice ₹90/kg</string>
+    <string name="n_n_n_n_nproduct_details">/n/n/n/n/nProduct Details</string>
+    <string name="product_details">Product Details</string>
+    <string name="product_name_brown_rice">Product Name: Brown rice</string>
+    <string name="rate_25_kg">Rate: ₹25/kg</string>
+    <string name="producer_info">Producer info</string>
+    <string name="producer_name_raghavan">Producer Name: Raghavan</string>
+    <string name="location_22kottakal_sinod_aruvikulam_tvm_08">Location: 22Kottakal sinod,Aruvikulam,TVM-08</string>
+    <string name="buy2">BUY</string>
+    <string name="delivery_option">Delivery option:</string>
+    <string name="patment_option">Patment Option:</string>
+    <string name="view_producer_location">View producer location</string>
+    <string name="confirm">Confirm</string>
+    <string name="proceed_to_online_pay">Proceed to online pay</string>
+    <string name="todo88">TODO</string>
+    <string name="payment_option1">Payment_option</string>
+    <string name="todo77">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="inhu">Woah ! relax..It would take less than a minute to create an account. OTP will be send to the number specified.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="address">Address</string>
+    <string name="create">Create</string>
+    <string name="otp">OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="sale_details">Sale Details</string>
+    <string name="todok">TODO</string>
+    <string name="quant" tools:ignore="DuplicateDefinition">Quantity (in kg)</string>
+    <string name="product_name_white_rice">Product Name: White rice</string>
+    <string name="price_25_kg">Price: ₹25/kg</string>
+    <string name="salestat">Sale status : Sold</string>
+    <string name="todo47">TODO</string>
+    <string name="product_name_lemon">Product Name: Lemon</string>
+    <string name="price_13_kg">Price: ₹13/kg</string>
+    <string name="sale_status_sold">Sale status : Sold</string>
+    <string name="todo00">TODO</string>
+    <string name="addp">Add Product</string>
+    <string name="todo12">TODO</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_name">Product Name</string>
+    <string name="quantity_in_kg">Quantity (in kg)</string>
+    <string name="price_expected_per_kg">Price expected (per kg)</string>
+    <string name="rupe">₹</string>
+    <string name="your_sale">Your Sale</string>
+    <string name="pic">Take a picture of the product</string>
+    <string name="open_cam">Open cam</string>
+    <string name="textview">TextView</string>
+    <string name="np">Price: ₹</string>
+    <string name="todo56">TODO</string>
+    <string name="todo97">TODO</string>
+    <string name="todo009">TODO</string>
+    <string-array name="MOD">
+        <item>Home Delivery</item>
+        <item>Direct purchase</item>
+    </string-array>
+    <string-array name="Payment">
+        <item>Online payment</item>
+        <item>Cash on delivery</item>
+    </string-array>
+</resources>

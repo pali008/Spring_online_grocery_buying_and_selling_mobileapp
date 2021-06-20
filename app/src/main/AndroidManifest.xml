@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.spring">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity2"></activity>
+        <activity android:name=".demo2" />
+        <activity android:name=".demo" />
+        <activity android:name=".salelist" />
+        <activity android:name=".prodlist" />
+        <activity android:name=".crnew" />
+        <activity android:name=".acc_create" />
+        <activity android:name=".buypay" />
+        <activity android:name=".buydetail" />
+        <activity android:name=".sell2" />
+        <activity android:name=".sell1" />
+        <activity android:name=".buycreatenew" />
+        <activity android:name=".buy2" />
+        <activity android:name=".abtus" />
+        <activity android:name=".buy1" />
+        <activity android:name=".pg2" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
